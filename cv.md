@@ -26,5 +26,10 @@ function multiply(a, b){
 ## Work Experience ##
 - [My first HTML and CSS(SCSS) coding ](https://github.com/AleksnikaPro/first-project_HTML-CSS)
 
+## Education ##
+- Adyghe State University (specialization: Theory and Methods of Teaching Foreign Languages and Culture)
+
+## Courses ##
+- Frontend Developer Course (in progress)
 
 
