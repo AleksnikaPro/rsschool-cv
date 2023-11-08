@@ -32,4 +32,6 @@ function multiply(a, b){
 ## Courses ##
 - Frontend Developer Course (in progress)
 
+## English Language ##
+- level: C1
 
