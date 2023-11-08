@@ -15,3 +15,12 @@ I started my professional career as a teacher of English at a secondary school. 
 - Vue.js 3 (basics)
 - Git/GitHub
 - VS Code
+
+## Code Example ##
+```javascript
+function multiply(a, b){
+    return a * b;
+}
+```
+
+
